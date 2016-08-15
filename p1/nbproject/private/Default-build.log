@@ -1,0 +1,7 @@
+rm -rf *.o
+rm -rf a.out
+g++ -Wall -g -c flight.cpp
+g++ -Wall -g -c utilities.cpp
+g++ -Wall -g -c plane.cpp 
+g++ -Wall -g -c main.cpp
+g++ -Wall -g utilities.o plane.o flight.o main.o -lm -o a.out

@@ -1,0 +1,2 @@
+Fatal design error: "Global variable found above first function/typedef in a file.
+Fatal design error: "Global variable found between functions in a file.
