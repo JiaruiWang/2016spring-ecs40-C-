@@ -1,0 +1,17 @@
+Processing :  /mnt/hgfs/j/Developer/2016springMyecs40/p7/vector.cpp
+Processing :  /mnt/hgfs/j/Developer/2016springMyecs40/p7/vector.h
+Processing :  /mnt/hgfs/j/Developer/2016springMyecs40/p7/Testing/main.cpp
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 29
+ ** Total Violated Rules      : 0
+ ** Total Errors Occurs       : 0
+ ** Total Analyzed Files      : 3
+ ** Total Violated Files Count: 0
+ ** Build Quality             : 100.00%
+
+================================ Violated Rule Details ===============================
+
+================================ Violated File Details ===============================

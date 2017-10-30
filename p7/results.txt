@@ -1,0 +1,12 @@
+At this point this design checker does not check for any const needed.
+The design checker used to check the files after the deadline WILL check for consts.
+Scores from p7 for You need to create an authors.csv file!!!! No one will receive credit for this assignment
+
+Addresses used: .@ucdavis.edu
+ 
+Style: 8 out of 8
+Design: 6 out of 6 
+Operation: 36 out of 36 
+Warnings (subtracted from final score down to zero): 0
+Design errors:  0
+Total: 50 out of 50.

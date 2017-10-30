@@ -4,8 +4,8 @@ Scores from p7 for You need to create an authors.csv file!!!! No one will receiv
 
 Addresses used: .@ucdavis.edu
  
-Style: 0 out of 8
+Style:  out of 8
 Design: 16 out of 16 
-Operation: 26 out of 26 
+Operation:  out of 26 
 Warnings (subtracted from final score down to zero): 0
-Total: 42 out of 50.
+Total: 16 out of 50.

@@ -1,0 +1,25 @@
+Processing :  /home/ssdavis/40/p4/SeansSrc/flight.cpp
+Processing :  /home/ssdavis/40/p4/SeansSrc/flight.h
+Processing :  /home/ssdavis/40/p4/SeansSrc/flights.cpp
+Processing :  /home/ssdavis/40/p4/SeansSrc/flights.h
+Processing :  /home/ssdavis/40/p4/SeansSrc/main.cpp
+Processing :  /home/ssdavis/40/p4/SeansSrc/passenger.cpp
+Processing :  /home/ssdavis/40/p4/SeansSrc/passenger.h
+Processing :  /home/ssdavis/40/p4/SeansSrc/plane.cpp
+Processing :  /home/ssdavis/40/p4/SeansSrc/plane.h
+Processing :  /home/ssdavis/40/p4/SeansSrc/utilities.cpp
+Processing :  /home/ssdavis/40/p4/SeansSrc/utilities.h
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 30
+ ** Total Violated Rules      : 0
+ ** Total Errors Occurs       : 0
+ ** Total Analyzed Files      : 11
+ ** Total Violated Files Count: 0
+ ** Build Quality             : 100.00%
+
+================================ Violated Rule Details ===============================
+
+================================ Violated File Details ===============================

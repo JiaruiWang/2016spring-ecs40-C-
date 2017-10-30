@@ -1,0 +1,31 @@
+Processing :  /home/ssdavis/40/p6/SeansSrc/sortedlinkedlist.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/main1.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/linkedlist.h
+Processing :  /home/ssdavis/40/p6/SeansSrc/sortedlinkedlist.h
+Processing :  /home/ssdavis/40/p6/SeansSrc/linkedlist.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/vector.h
+Processing :  /home/ssdavis/40/p6/SeansSrc/sortedvector.h
+Processing :  /home/ssdavis/40/p6/SeansSrc/vector.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/sortedvector.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/container.h
+Processing :  /home/ssdavis/40/p6/SeansSrc/container.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/main4.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/main.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/Main.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/main2.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/main3.cpp
+Processing :  /home/ssdavis/40/p6/SeansSrc/main5.cpp
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 30
+ ** Total Violated Rules      : 0
+ ** Total Errors Occurs       : 0
+ ** Total Analyzed Files      : 17
+ ** Total Violated Files Count: 0
+ ** Build Quality             : 100.00%
+
+================================ Violated Rule Details ===============================
+
+================================ Violated File Details ===============================

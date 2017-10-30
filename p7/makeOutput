@@ -1,0 +1,2 @@
+g++-4.4 -ansi -Wall -g -c main.cpp
+g++-4.4 -ansi -Wall -g -o templates.out main.o  

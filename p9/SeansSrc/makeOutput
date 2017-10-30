@@ -1,0 +1,4 @@
+g++ -ansi -Wall -DNDEBUG -c main.cpp
+g++ -ansi -Wall -o BST.out main.o
+g++ -ansi -Wall -c main.cpp -o main2.o
+g++ -ansi -Wall -o BST2.out main2.o

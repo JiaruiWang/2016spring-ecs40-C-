@@ -1,0 +1,6 @@
+g++ -ansi -Wall -c flight.cpp
+g++ -ansi -Wall -c main.cpp
+g++ -ansi -Wall -c plane.cpp
+g++ -ansi -Wall -c utilities.cpp
+g++ -ansi -Wall -o airline.out flight.o main.o plane.o utilities.o  
+clang: warning: argument unused during compilation: '-ansi'

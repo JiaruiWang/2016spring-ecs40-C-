@@ -1,0 +1,5 @@
+g++ -ansi -Wall -g -c flight.cpp
+g++ -ansi -Wall -g -c main.cpp
+g++ -ansi -Wall -g -c plane.cpp
+g++ -ansi -Wall -g -c utilities.cpp
+g++ -ansi -Wall -g -o airline.out flight.o main.o plane.o utilities.o  

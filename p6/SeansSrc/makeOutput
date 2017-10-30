@@ -1,0 +1,7 @@
+g++ -ansi -Wall -g -c container.cpp
+g++ -ansi -Wall -g -c linkedlist.cpp
+g++ -ansi -Wall -g -c main.cpp
+g++ -ansi -Wall -g -c sortedlinkedlist.cpp
+g++ -ansi -Wall -g -c sortedvector.cpp
+g++ -ansi -Wall -g -c vector.cpp
+g++ -ansi -Wall -g -o containers.out container.o linkedlist.o main.o sortedlinkedlist.o sortedvector.o vector.o  

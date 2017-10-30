@@ -1,0 +1,14 @@
+At this point this design checker does not check for any const needed.
+The design checker used to check the files after the deadline WILL check for consts.
+Scores from p9 for Davis,Sean Davis,Sean 
+
+Note that the format for authors.csv is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: ssdavis@ucdavis.edu davis@cs.ucdavis.edu  
+Style: 8 out of 8
+Design: 14 out of 14 
+Operation: 28 out of 28 
+Warnings (subtracted from final score down to zero): 0
+Design errors:  0
+Total: 50 out of 50.
